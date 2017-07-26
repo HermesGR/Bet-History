@@ -7,7 +7,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=
 #EXTINF:1, [B][COLOR red](S) AEK Athens FC (Gre)  - CSKA Moscow (Rus) - Tip = 1 (odd 2.65) LOST [/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [B][COLOR blue](S) Inter (It) - Lyon (Fr) - Tip = 1 (odd 2.85) WON [/B][/COLOR]
+#EXTINF:1, [B][COLOR green](S) Inter (It) - Lyon (Fr) - Tip = 1 (odd 2.85) WON [/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
 #EXTINF:1, [B][COLOR green](T) L.Giustino (Ita) - D.Istomin (Uzb) Tip = 2 (odd 1.50) WON [/B][/COLOR]
