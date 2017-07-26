@@ -4,6 +4,9 @@
 #EXTINF:1, [B][COLOR blue]Bet History[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
+#EXTINF:1, [B][COLOR green](S) Yenisey	-	Orenburg - Tip = 1 (odd 2.15) WON[/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
 #EXTINF:1, [B][COLOR red](S) AEK Athens FC (Gre)  - CSKA Moscow (Rus) - Tip = 1 (odd 2.65) LOST [/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
