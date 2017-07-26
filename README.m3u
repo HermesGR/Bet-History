@@ -1,8 +1,32 @@
 
 #EXTM3U
 
-#EXTINF:1, [B][COLOR red]Coming Soon...[/B][/COLOR]
+#EXTINF:1, [B][COLOR blue]Bet History[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [B][COLOR dark blue]- - - - -[/B][/COLOR]
+#EXTINF:1, [B][COLOR red](S) AEK Athens FC (Gre)  - CSKA Moscow (Rus) - Tip = 1 (odd 2.65) LOST [/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [B][COLOR blue](S) Inter (It) - Lyon (Fr) - Tip = 1 (odd 2.85) WON [/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [B][COLOR green](T) L.Giustino (Ita) - D.Istomin (Uzb) Tip = 2 (odd 1.50) WON [/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [B][COLOR green](S) Horsens - Lyngby - Tip = 1 (odd 3.10) WON [/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [B][COLOR green](T) N.Gombos (Svk) - T.Daniel (Jpn) - Tip = 1 (odd 2.20) WON [/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [B][COLOR green](S) Bad Gleichenberg - Pasching - Tip = Over 3.5 Goals (odd 2.50) WON [/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [B][COLOR green](S) FK Anzi Makhackala - Amkar - Tip = 1 (Odd 2.15) WON [/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [B][COLOR green](S) Boa - Criciuma Tip = 1 (Odd 2.25) WON [/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [B][COLOR green](T) Laaksonen H.	- Cuevas P. Tip = 1 (Odd 4.00) WON [/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
