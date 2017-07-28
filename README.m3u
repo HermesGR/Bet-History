@@ -11,13 +11,13 @@ plugin://plugin.video.youtube/?action=play_video&videoid=
 #EXTINF:1, [B][COLOR green](S) (S) Sturm Graz (AUT) vs Fenerbachse (TUR) Tip = 2 (Odd 2,10) WON[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [B][COLOR green](S) Yenisey	vs	Orenburg - Tip = 1 (odd 2.15) WON[/B][/COLOR]
+#EXTINF:1, [B][COLOR green](S) Yenisey vs Orenburg - Tip = 1 (odd 2.15) WON[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [B][COLOR green](S) Sol de America (Par)	vs	Ponte Preta (Bra) Tip = 2 (odd 3.00) WON [/B][/COLOR]
+#EXTINF:1, [B][COLOR green](S) Sol de America (Par) vs Ponte Preta (Bra) Tip = 2 (odd 3.00) WON [/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [B][COLOR red](S) AEK Athens FC (Gre)  - CSKA Moscow (Rus) - Tip = 1 (odd 2.65) LOST [/B][/COLOR]
+#EXTINF:1, [B][COLOR red](S) AEK Athens FC (Gre) vs CSKA Moscow (Rus) - Tip = 1 (odd 2.65) LOST [/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
 #EXTINF:1, [B][COLOR green](S) Inter (It) vs Lyon (Fr) - Tip = 1 (odd 2.85) WON [/B][/COLOR]
