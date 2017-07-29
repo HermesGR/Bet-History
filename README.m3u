@@ -5,6 +5,12 @@
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
 
+#EXTINF:1, [B][COLOR red](S)Sonderjyske vs Helsingor Tip = 1 (odd 1.55) LOST[/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [B][COLOR green](T)D.Schwartzman vs F.Mayer Tip = 2 (odd 3.25) WON[/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
 #EXTINF:1, [B][COLOR red](T) P.Gojowcik vs K.Edmunt Tip = 1 (Odd 2.75)  LOST [/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
