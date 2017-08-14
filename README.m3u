@@ -4,6 +4,21 @@
 #EXTINF:1, [B][COLOR blue]Bet History[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
+#EXTINF:1, [B][COLOR green] WON[/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [B][COLOR green] WON[/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [B][COLOR green] WON[/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [B][COLOR green](S)CSKA Moscow vs Spartak Moscow Tip=1 (Odd 2.15) WON[/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [B][COLOR red] LOST[/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
 #EXTINF:1, [B][COLOR green](S)Goteborg vs AIK Stockholm Tip=Over 2.5(Odd 2.05) WON[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
