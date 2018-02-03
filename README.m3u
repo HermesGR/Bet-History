@@ -5,5 +5,14 @@
 #EXTINF:1, [B][COLOR blue]Bet History[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [B][COLOR green] Coming Soon ... [/COLOR]
+#EXTINF:1, [COLOR blue]ΠΑΡΑΣΚΕΥΗ 2 ΦΕΒΡΟΥΑΡΙΟΥ 2018[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [COLOR green](S) ΣΟΣΙΕΔΑΔ - ΝΤ.ΛΑ ΚΟΡΟΥΝΙΑ = 1 (1.50)(Ν)[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [COLOR green](B) ΜΠΑΜΠΕΡΓΚ - ΠΑΝΑΘΗΝΑΪΚΌΣ = OVER 153.5 (1.75)(Ν)[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [COLOR red](S) ΒΑΛΕΝΣΙΕΝ - ΝΑΝΣΙ = OVER 2.5 GOALS (ODD 2.20)(Η)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
